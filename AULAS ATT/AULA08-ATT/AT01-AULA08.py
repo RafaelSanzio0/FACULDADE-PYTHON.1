@@ -1,0 +1,9 @@
+#ATIVIDADE DE LABORATÓRIO 01 - AULA 08
+
+#EXIBIR OS 10 PRIMEIROS MULTIPLOS DE 30
+
+x = 0
+
+while x <= 30:
+    print(x)
+    x = x+3

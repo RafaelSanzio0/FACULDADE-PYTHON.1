@@ -1,0 +1,9 @@
+#EXERCICIO TUTORADO 01 - AULA 08
+
+#CONTADOR
+x = 50
+
+#CONDIÇÃO
+while x <= 100:  #/ CONDIÇÃO SE FOR VERDADEIRA ELE ENTRA NESSE LAÇO
+    print("Numero:",x)
+    x = x+1 #/ FECHA O LAÇO
